@@ -98,7 +98,7 @@ parameters:
 
           A zero or negative value means that automatic disarming triggered by landing detection is disabled.
       type: float
-      default: 2.0
+      default: 5.0
       unit: s
       decimal: 1
       increment: 0.1
